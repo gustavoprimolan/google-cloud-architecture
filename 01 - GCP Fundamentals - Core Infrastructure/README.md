@@ -31,3 +31,16 @@
 * The component of a virtualized data center match the parts of a physical data center
 
 * About 10 years ago, Google realized that its business couldn't move fast enough within the confines of the virtualization model. Google switch to container.
+
+<h2>Every company is a data company</h2>
+
+* Google Cloud provides a wide variety of services for managing and getting value from data and doing that at scale.
+
+<h2>Quiz</h2>
+
+*  Cloud computing resources are available on-demand and self-service. (An exception: cloud computing providers typically set some limits on the amount of resources a customer can consume by default, to help customers avoid accidental runaway resource usage and charges. These limits can be raised by the cloud provider.)
+
+* The cloud provider has a pool of resources and lets you use more or less on demand.
+
+<h2>GCP Computing Architectures</h2>
+
