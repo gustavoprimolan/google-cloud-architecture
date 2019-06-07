@@ -81,3 +81,19 @@
 * All existing data centers use roughly two percent of the world's eletricity.
 
 <img src="imgs/07.png"/>
+
+
+<h2>Open APIs</h2>
+
+<img src="imgs/08.png"/>
+
+
+<h2>Why choose Google Cloud Platform</h2>
+
+* Google Cloud Platform lets you choose from computing, storage, big data, machine learning and application services for your web, mobile, analytics and back-end solutions. It's global, it's cost effective, it's open source friendly and it's designed for security. 
+
+<img src="imgs/09.png"/>
+
+<h2>Multi-layered security approach</h2>
+
+<img src="imgs/10.png"/>
