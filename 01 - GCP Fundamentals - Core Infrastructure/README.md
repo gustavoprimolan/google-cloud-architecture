@@ -44,3 +44,18 @@
 
 <h2>GCP Computing Architectures</h2>
 
+* Infrastructure as a Service (IaaS)
+    * You pay for what you allocate.
+
+* Platform as a Service (PaaS)
+    * You pay for what you use
+
+<img src="imgs/03.png"/>
+
+
+<h2>The Google Network</h2>
+
+* Google's Network is the largest of its kind on earth.
+* The network interconnects at more than 90 Internet exchanges and more than 100 points of presence worldwide. When an Internet user sends traffic to a Google resource, Google responds to the user's request from an edge network location that will provide the lowest latency. Google's Edge-caching network cites content close to end users to minimize latency.
+
+<img src="imgs/04.png"/>
