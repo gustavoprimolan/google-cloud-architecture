@@ -59,3 +59,25 @@
 * The network interconnects at more than 90 Internet exchanges and more than 100 points of presence worldwide. When an Internet user sends traffic to a Google resource, Google responds to the user's request from an edge network location that will provide the lowest latency. Google's Edge-caching network cites content close to end users to minimize latency.
 
 <img src="imgs/04.png"/>
+
+<h2>GCP regions and zones</h2>
+
+* How is GCP organized?
+* A zone is a deployment area for Google Cloud Platform Resources
+* For Example:
+    * When you launch a virtual machine in GCP using Compute Engine, it runs in a zone specify.
+* Although people think of a zona as being like a GCP Data Center, that is not strictly accurate because a zone doesnt always correspond to a single physical building.
+* Zones are group into regions, and you can choose which region your GCP Resources are in.
+* Some services support placing resources in what we call a Multi-Region.
+* For Example:
+    * Google Cloud Storage, lets you place data within the Europe Multi-Region. That means, it's stored redundantly in at least two geographic locations, separeted at least 160 kilometers within Europe.
+* Today, GCP has 15 regions.
+* You can see at cloud.google.com to see what the total is up to today.
+<img src="imgs/05.png"/>
+<img src="imgs/06.png"/>
+
+<h2>Environmental Responsibility</h2>
+
+* All existing data centers use roughly two percent of the world's eletricity.
+
+<img src="imgs/07.png"/>
